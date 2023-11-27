@@ -1,2 +1,3 @@
-# Sruthi Papanasa ## Email: spapanas@ucsd.edu
+# Sruthi Papanasa 
+### spapanas@ucsd.edu
 
